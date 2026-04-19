@@ -2,9 +2,6 @@
 
 Get instant, accurate answers to USA Softball 2026 Fast Pitch rules questions — with rule citations, division notes, and step-by-step reasoning for complex plays.
 
-Version 1.0 · Based on the 2026 USA Softball Official Rules of Softball
-
----
 
 ## What it does
 

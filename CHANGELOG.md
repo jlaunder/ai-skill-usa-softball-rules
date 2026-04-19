@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.4 — 2026-04-19
+
+- Further strengthened disclaimer constraint with explicit example triggers and instruction not to interpret "official" as referring to the rulebook
+
 ## v1.3 — 2026-04-19
 
 - Strengthened disclaimer constraint to catch vague officiality questions (e.g. "Is it official?")
