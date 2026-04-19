@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.5 — 2026-04-19
+
+- Disclaimer now shown proactively on the first response of every conversation
+
 ## v1.4 — 2026-04-19
 
 - Further strengthened disclaimer constraint with explicit example triggers and instruction not to interpret "official" as referring to the rulebook
